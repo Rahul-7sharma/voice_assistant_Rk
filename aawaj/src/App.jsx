@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react'
-//import img from './ai-human.avif'
 import img from './human-ai.png'
 
 
